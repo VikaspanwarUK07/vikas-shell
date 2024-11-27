@@ -8,3 +8,7 @@ echo "lets see what git will say now"
 echo "lets see now "
 
 echo "this is test for commit"
+
+echo "this is last test"
+echo "this is my 3rd commit"
+
