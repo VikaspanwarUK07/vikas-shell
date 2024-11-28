@@ -22,3 +22,9 @@ echo "this will be 6 version"
 
 echo "this is branch version 1"
 
+
+#this is rebase functionality#
+
+echo "this is a rebase functionality"
+
+
